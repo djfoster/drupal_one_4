@@ -29,8 +29,8 @@ class MacExamplesForm extends FormBase {
     
     $form['area_de_texto_1'] = array(
       '#type' => 'textarea',
-      '#title' => 'Area de texto 1',
-    );
+            '#title' => 'Area de texto 1',
+     '#resizable' => 'one '
     
     $form['checkbox_1'] = array(
       '#type' => 'checkbox',
