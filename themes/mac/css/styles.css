@@ -1,1 +1,8 @@
-
+.field--name-field-presley-icon {
+  float: left;
+  margin-right:1em;
+}
+.field--name-field-presley-icon img {
+padding: 5px;
+max-width: 24px;
+}
